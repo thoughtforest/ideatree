@@ -1,0 +1,13 @@
+{
+    "id": 0,
+    "previous": null,
+    "next": 3888,
+    "nodes": [
+        {
+            "id": "576095e6-fe30-4436-b6fd-10ac0461e658",
+            "alias": "root",
+            "type": "w",
+            "balance": 1000000
+        }
+    ]
+}

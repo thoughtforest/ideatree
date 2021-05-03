@@ -1,0 +1,40 @@
+{
+  "name": "ideatree",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "ideatree is a data node that syncs and validate across, serving as a decentralized building block of 'Proof of Thought' chains. Please visit https://creativitycloud.org to learn more about new digital currency that will solve real world problem in very straightforward way.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoughtforest/ideatree.git"
+  },
+  "keywords": [
+    "creativity",
+    "cloud",
+    "thoughtchain",
+    "thoughtforest",
+    "ccc",
+    "digital",
+    "currency",
+    "cryptocurrency"
+  ],
+  "author": "ideatree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thoughtforest/ideatree/issues"
+  },
+  "homepage": "https://github.com/thoughtforest/ideatree#readme",
+  "dependencies": {
+    "cli-ux": "^5.5.1",
+    "functional-red-black-tree": "^1.0.1",
+    "jsonfile": "^6.1.0",
+    "snoowrap": "^1.22.0",
+    "tree-model": "^1.0.7",
+    "uuid": "^8.3.2",
+    "write": "^2.0.0"
+  }
+}
